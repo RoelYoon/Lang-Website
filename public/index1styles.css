@@ -45,7 +45,7 @@ body,html{
 #letter {
     max-width: 75vw;
     margin-inline: auto;
-    color: orange;
+    color: rgb(241, 107, 50);
 }
 #loading {
     margin-inline: auto;
@@ -54,7 +54,6 @@ body,html{
 h1{
     font-family: gun;
     text-align: center;
-    color: Orange;
     font-size: 75px;
 }
 h2{

@@ -45,7 +45,7 @@ body,html{
 #letter {
     max-width: 75vw;
     margin-inline: auto;
-    color: rgb(187, 0, 255);
+    color: orange;
 }
 #loading {
     margin-inline: auto;
