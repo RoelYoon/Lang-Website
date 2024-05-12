@@ -48,15 +48,15 @@ body,html{
     position:absolute;
     height: 75px;
     width: 200px;
-    left: 380px;
+    left: 425px;
     top: 175px;
 }
 #mail3{
     position:absolute;
     height: 75px;
     width: 200px;
-    left: 450px;
-    top: 200px;
+    left: 360px;
+    top: 220px;
 }
 #loading {
     margin-inline: auto;
