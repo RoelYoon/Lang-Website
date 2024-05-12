@@ -12,5 +12,5 @@ app.all('*',(req,res)=>{
     res.send("<h1>404 boiii</h1>").status(404);
 });
 
-app.listen(8099, "10.138.0.2", ()=>{console.log("Listening at IP 35.203.145.230 port 8099")});
+app.listen(8104, "10.138.0.2", ()=>{console.log("Listening at IP 35.203.145.230 port 8099")});
 //app.listen(3000, "localhost", ()=>{console.log("Listening on localhost:3000")});
