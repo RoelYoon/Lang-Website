@@ -41,22 +41,22 @@ body,html{
     position:relative;
     height: 75px;
     width: 200px;
-    left: 400px;
+    left: 380px;
     top: -600px;
 }
 #mail2{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position:relative;
     height: 75px;
-    width: 100px;
-    left: 385px;
-    top: 125px;
+    width: 200px;
+    left: 380px;
+    top: -550px;
 }
 #mail3{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position:relative;
+    height: 75px;
+    width: 200px;
+    left: 4500px;
+    top: -500px;
 }
 #loading {
     margin-inline: auto;
