@@ -33,7 +33,6 @@ body,html{
     position:relative;
 }
 #mail{
-    display: block;
     position: absolute;
     top: 50px;
     left: 200px;
