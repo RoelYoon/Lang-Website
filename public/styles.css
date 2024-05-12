@@ -36,9 +36,9 @@ body,html{
 }
 #mail1{
     position:absolute;
-    height: 100px;
-    width: 150px;
-    left: 350px;
+    height: 75px;
+    width: 100px;
+    left: 375px;
     top: 100px;
 }
 #mail2{
