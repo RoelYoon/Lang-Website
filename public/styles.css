@@ -40,11 +40,17 @@ body,html{
     width: 100px;
     left: 385px;
     top: 125px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #mail2{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 75px;
+    width: 100px;
+    left: 385px;
+    top: 125px;
 }
 #mail3{
     display: block;
