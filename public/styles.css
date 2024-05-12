@@ -49,14 +49,14 @@ body,html{
     height: 75px;
     width: 200px;
     left: 380px;
-    top: -550px;
+    top: -575px;
 }
 #mail3{
     position:relative;
     height: 75px;
     width: 200px;
     left: 450px;
-    top: -500px;
+    top: -550px;
 }
 #loading {
     margin-inline: auto;
