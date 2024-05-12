@@ -14,7 +14,7 @@ mail1.onclick = function(e) {
   image.src="https://docs.google.com/drawings/d/e/2PACX-1vQMxg6xzSnqeT82D4wYdB2zePLXPmcRcdsZGa5wWTmLJCo5lmWkb4cPyJz1n1hhoA8pYbUCFbA2-Q96/pub?w=960&h=720";
         open=true;
 }else{
-    document.location.href = "http://35.203.145.230:8104/index1.html";
+    document.location.href = "http://35.203.145.230:8104/gym.html";
 }
 }
 mail2.onclick = function(e) {
@@ -22,7 +22,7 @@ mail2.onclick = function(e) {
   image.src="https://docs.google.com/drawings/d/e/2PACX-1vQMxg6xzSnqeT82D4wYdB2zePLXPmcRcdsZGa5wWTmLJCo5lmWkb4cPyJz1n1hhoA8pYbUCFbA2-Q96/pub?w=960&h=720";
         open=true;
 }else{
-    document.location.href = "http://35.203.145.230:8104/index2.html";
+    document.location.href = "http://35.203.145.230:8104/xc.html";
 }
 }
 mail3.onclick = function(e) {
@@ -30,6 +30,6 @@ mail3.onclick = function(e) {
   image.src="https://docs.google.com/drawings/d/e/2PACX-1vQMxg6xzSnqeT82D4wYdB2zePLXPmcRcdsZGa5wWTmLJCo5lmWkb4cPyJz1n1hhoA8pYbUCFbA2-Q96/pub?w=960&h=720";
         open=true;
 }else{
-    document.location.href = "http://35.203.145.230:8104/index3.html";
+    document.location.href = "http://35.203.145.230:8104/bros.html";
 }
 }
