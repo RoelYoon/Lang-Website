@@ -45,7 +45,7 @@ body,html{
 #letter {
     max-width: 75vw;
     margin-inline: auto;
-    color: orange;
+    color: rgb(187, 0, 255);
 }
 #loading {
     margin-inline: auto;
@@ -54,7 +54,6 @@ body,html{
 h1{
     font-family: varsityOutline;
     text-align: center;
-    color: Orange;
     font-size: 80px;
 }
 h2{
