@@ -41,7 +41,7 @@ body,html{
 }
 @font-face { font-family: gun; src: url('/gunplay rg.otf'); } 
 @font-face { font-family: varsity; src: url('/varsity.ttf'); } 
-@font-face { font-family: varsityOutline; src: url('/varsityOutline.ttf'); } 
+@font-face { font-family: lover; src: url('/lover.ttf'); } 
 #letter {
     max-width: 75vw;
     margin-inline: auto;
@@ -52,11 +52,11 @@ body,html{
     color: rgb(224, 224, 224);
 }
 h1{
-    font-family: varsityOutline;
+    font-family: lover;
     text-align: center;
     font-size: 80px;
 }
 h2{
-    font-family: varsity;
+    font-family: lover;
     font-size: 20px;
 }
