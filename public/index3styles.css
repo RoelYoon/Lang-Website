@@ -45,11 +45,11 @@ body,html{
 #letter {
     max-width: 75vw;
     margin-inline: auto;
-    color: rgb(187, 0, 255);
+    color: rgb(216, 203, 220);
 }
 #loading {
     margin-inline: auto;
-    color: rgb(224, 224, 224);
+    color: orange;
 }
 h1{
     font-family: lover;
