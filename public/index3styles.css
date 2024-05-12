@@ -5,7 +5,7 @@ body > *{
     overscroll-behavior: none;
 }
 body{
-    background-color: #ab382f;;
+    background-color: #b55b54;;
 }
 *{
     margin: 0;
@@ -49,7 +49,7 @@ body,html{
 }
 #loading {
     margin-inline: auto;
-    color: orange;
+    color: rgb(224, 224, 224);
 }
 h1{
     font-family: varsityOutline;
