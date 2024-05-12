@@ -1,14 +1,15 @@
 var image = document.getElementById("mail");
+var mail1 = document.getElementById("mail1");
+var mail2 = document.getElementById("mail2");
+var mail3 = document.getElementById("mail3");
 var open = false;
-image.click = function(e) {
+image.onclick = function(e) {
     if(!open){
   image.src="https://docs.google.com/drawings/d/e/2PACX-1vQMxg6xzSnqeT82D4wYdB2zePLXPmcRcdsZGa5wWTmLJCo5lmWkb4cPyJz1n1hhoA8pYbUCFbA2-Q96/pub?w=960&h=720";
         open=true;
-}else{
-    var pos = $(this).position();
-    //The following are the x/y coordinates of the mouse click relative to image.
-    var x = e.pageX - pos.left;
-    var y = e.pageY - pos.top;
-    console.log(x+" "+y);
+        mail1.hidden=0;
+        mail2.hidden=0;
+        mail3.hidden=0;
 }
+
 }
