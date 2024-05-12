@@ -1,0 +1,63 @@
+body > *{
+    position: relative;
+    z-index: 2;
+    color: white;
+    overscroll-behavior: none;
+}
+body{
+    background-color: #7703fc;;
+}
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+body,html{
+    overflow-x: hidden;
+}
+.webgl{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; 
+}
+#leftArrow{
+    top:20%;
+    transform: scale(0.2);
+    position:absolute;
+    left:-200px;
+    opacity:50%;
+}
+#rightArrow{
+    top:20%;
+    transform: scale(0.2);
+    position: absolute;
+    right:-200px;
+    opacity:50%;
+}
+.sprites{
+    background-color:transparent; 
+    border: 0px;
+}
+@font-face { font-family: gun; src: url('/gunplay rg.otf'); } 
+@font-face { font-family: varsity; src: url('/varsity.ttf'); } 
+@font-face { font-family: varsityOutline; src: url('/varsityOutline.ttf'); } 
+#letter {
+    max-width: 75vw;
+    margin-inline: auto;
+    color: orange;
+}
+#loading {
+    margin-inline: auto;
+    color: orange;
+}
+h1{
+    font-family: varsityOutline;
+    text-align: center;
+    color: Orange;
+    font-size: 80px;
+}
+h2{
+    font-family: varsity;
+    font-size: 20px;
+}
