@@ -17,9 +17,7 @@ h1{
     padding: 0; 
     box-sizing: border-box;
 }
-body,html{
-    overflow-x: hidden;
-}
+
 .sprites{
     background-color:transparent; 
     border: 0px;
