@@ -36,10 +36,10 @@ body,html{
 }
 #mail1{
     position:absolute;
-    height: 50px;
-    width: 200px;
-    left: 500px;
-    top: 500px;
+    height: 100px;
+    width: 150px;
+    left: 200px;
+    top: 100px;
 }
 #mail2{
     display: block;
