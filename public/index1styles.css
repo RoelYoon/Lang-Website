@@ -44,9 +44,9 @@ body,html{
     background-color:transparent; 
     border: 0px;
 }
-@font-face { font-family: sportsFont; src: url('/varsity_regular.ttf'); } 
+@font-face { font-family: sportsFont; src: url('/Varsity.ttf'); } 
 #letter {
-   font-family: loverFont;
+   font-family: sportsFont;
     max-width: 75vw;
     margin-inline: auto;
     color: orange;
