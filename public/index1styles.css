@@ -44,9 +44,9 @@ body,html{
     background-color:transparent; 
     border: 0px;
 }
-@font-face { font-family: sportsFont; src: url('/Varsity.ttf'); } 
+@font-face { font-family: gun; src: url('/gunplay rg.otf'); } 
 #letter {
-   font-family: sportsFont;
+   font-family: gun;
     max-width: 75vw;
     margin-inline: auto;
     color: orange;
@@ -56,5 +56,5 @@ body,html{
     color: orange;
 }
 h2{
-    font-size: 20px;
+    font-size: 40px;
 }
