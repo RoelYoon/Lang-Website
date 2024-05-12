@@ -41,8 +41,8 @@ body,html{
 }
 @font-face { font-family: gun; src: url('/gunplay rg.otf'); } 
 @font-face { font-family: varsity; src: url('/varsity.ttf'); } 
+@font-face { font-family: varsityOutline; src: url('/varsityOutline.ttf'); } 
 #letter {
-   font-family: gun;
     max-width: 75vw;
     margin-inline: auto;
     color: orange;
@@ -52,7 +52,7 @@ body,html{
     color: orange;
 }
 h1{
-    font-family: gun;
+    font-family: varsityOutline;
     text-align: center;
     color: Orange;
     font-size: 80px;
