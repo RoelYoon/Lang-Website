@@ -38,21 +38,21 @@ body,html{
     margin-right: auto;
 }
 #mail1{
-    position:absolute;
+    position:relative;
     height: 75px;
     width: 200px;
     left: 380px;
     top: -600px;
 }
 #mail2{
-    position:absolute;
+    position:relative;
     height: 75px;
     width: 200px;
     left: 380px;
     top: -550px;
 }
 #mail3{
-    position:absolute;
+    position:relative;
     height: 75px;
     width: 200px;
     left: 450px;
