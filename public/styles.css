@@ -38,25 +38,25 @@ body,html{
     margin-right: auto;
 }
 #mail1{
-    position:relative;
+    position:absolute;
     height: 75px;
     width: 200px;
     left: 380px;
-    top: -600px;
+    top: 125px;
 }
 #mail2{
-    position:relative;
+    position:absolute;
     height: 75px;
     width: 200px;
     left: 380px;
-    top: -575px;
+    top: 175px;
 }
 #mail3{
-    position:relative;
+    position:absolute;
     height: 75px;
     width: 200px;
     left: 450px;
-    top: -550px;
+    top: 200px;
 }
 #loading {
     margin-inline: auto;
