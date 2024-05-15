@@ -61,4 +61,6 @@ h2{
     font-size: 30px;
 }
 #img{
+    margin-left: auto;
+    margin-right: auto;
 }
