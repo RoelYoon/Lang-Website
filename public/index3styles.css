@@ -53,12 +53,11 @@ body,html{
     color: orange;
 }
 h1{
-    font-family: code;
+    font-family: lover;
     text-align: center;
-    font-size: 70px;
+    font-size: 80px;
 }
 h2{
-    font-family: code;
+    font-family: lover;
     font-size: 30px;
-    line-height: 60px;
 }
