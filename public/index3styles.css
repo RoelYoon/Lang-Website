@@ -42,6 +42,7 @@ body,html{
 @font-face { font-family: gun; src: url('/gunplay rg.otf'); } 
 @font-face { font-family: varsity; src: url('/varsity.ttf'); } 
 @font-face { font-family: lover; src: url('/lover.ttf'); } 
+@font-face { font-family: code; src: url('/code.ttf'); } 
 #letter {
     max-width: 75vw;
     margin-inline: auto;
@@ -52,7 +53,7 @@ body,html{
     color: orange;
 }
 h1{
-    font-family: lover;
+    font-family: code;
     text-align: center;
     font-size: 80px;
 }
